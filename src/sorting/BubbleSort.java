@@ -3,6 +3,8 @@ package sorting;
 import java.util.Arrays;
 
 public class BubbleSort {
+	
+	// TC: o(n^2)
 
 	public static String solve(int arr[]) {
 
